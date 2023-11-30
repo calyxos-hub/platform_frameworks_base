@@ -16,4 +16,7 @@
 -->
 <resources>
     <string name="global_action_panic">Panic trigger</string>
+
+    <!-- Text while recognizing face -->
+    <string name="face_unlock_recognizing">Recognizing face...</string>
 </resources>
